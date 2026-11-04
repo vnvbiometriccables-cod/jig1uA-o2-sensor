@@ -1,0 +1,11 @@
+# Credentials – never commit
+.streamlit/secrets.toml
+*service_account*.json
+*credentials*.json
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+*.xlsx
